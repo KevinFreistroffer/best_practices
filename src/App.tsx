@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>React Components</h1>
-        <button>Can't wait to &gt;&gt;&gt;</button> 
+        <button>Set Text</button> 
       </header>
     </div>
   );
